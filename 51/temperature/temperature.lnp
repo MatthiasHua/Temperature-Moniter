@@ -1,0 +1,5 @@
+"STARTUP.obj",
+"temperature.obj",
+"ds18b20.obj" 
+TO "temperature" 
+RAMSIZE(256) 
